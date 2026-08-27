@@ -4,7 +4,7 @@
   "name": "OrcaSlicer",
   "description": "Prepare models for 3D printing.",
   "version": "2.4.2",
-  "image": "ghcr.io/containerpak/orcaslicer@sha256:6435d073d2205f25daec4d3b45fcc4c555f85c1cf636ba89c81ec3da852c0753",
+  "image": "ghcr.io/containerpak/orcaslicer@sha256:d09a95fca540839dbe4972fb43cd7a4bba6ec59ea72ab09f525852fc0cc1bbd5",
   "binaries": [
     "/usr/bin/orcaslicer"
   ],
